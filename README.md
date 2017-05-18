@@ -20,8 +20,6 @@ Vá até a página do Visual [Studio Code](https://code.visualstudio.com/docs/la
 
 ![alt tag](https://uploaddeimagens.com.br/imagens/pic_1-png--2)
 
-![alt tag](https://uploaddeimagens.com.br/imagens/pic_1-png--2)
-
 ### 2º Passo:
 Depois basta copiar as informações inerentes ao arquivo: **tsconfig.json**
 
