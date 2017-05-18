@@ -18,7 +18,7 @@ Há necessidade de instalar Node.Js e TypeScript!!! Assim que segue os links aci
 ### 1º Passo:
 Vá até a página do Visual [Studio Code](https://code.visualstudio.com/docs/languages/typescript) -> Docs - Languages -> TypeScript -> tsconfig.json (conforme segue a imagem abaixo):
 
-![alt tag](https://uploaddeimagens.com.br/imagens/pic_1-png--2)
+![alt tag](http://i.imgsafe.org/15cbcde1e4.png)
 
 ### 2º Passo:
 Depois basta copiar as informações inerentes ao arquivo: **tsconfig.json**
@@ -55,7 +55,7 @@ Studio Code integrado basta ir até o diretório do arquivo e digitar o seguinte
 
 ## Dúvidas?!
 
-Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente basta criar uma Issue aqui no GitHub que estarei respondendo a vocês!! :D :D
+Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente basta criar uma Issue aqui no GitHub que estarei respondendo a vocês!! :D :D 
 
 
 
