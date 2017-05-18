@@ -55,7 +55,7 @@ Studio Code integrado basta ir até o diretório do arquivo e digitar o seguinte
 
 ## Dúvidas?!
 
-Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente basta criar uma Issue aqui no GitHub que estarei respondendo a vocês!! :D
+Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente basta criar uma Issue aqui no GitHub que estarei respondendo a vocês!! :D :D
 
 
 
