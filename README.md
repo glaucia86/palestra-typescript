@@ -1,13 +1,3 @@
-# Palestra: Introdução à TypeScript & Features Ts 2.x
-
-Códigos das demos realizadas durante a palestra no Coders in Rio. Aqui no mesmo repositório, encontra também os slides apresentados durante a palestra.
-
-## Recursos Utilizados no Desenvolvimento da Aplicação:
-
-- Visual Studio Code - [LINK PARA BAIXAR](https://code.visualstudio.com/)
-- Node.Js - [LINK PARA BAIXAR](https://nodejs.org/en/)
-- TypeScript 2.x - [LINK PARA BAIXAR](https://www.typescriptlang.org/)
-
 ## Configuração do Ambiente de Desenvolvimento:
 
 Se você optar em usar o Visual Studio Code, será bem simples de configurar o ambiente.
@@ -18,7 +8,7 @@ Há necessidade de instalar Node.Js e TypeScript!!! Assim que segue os links aci
 ### 1º Passo:
 Vá até a página do Visual [Studio Code](https://code.visualstudio.com/docs/languages/typescript) -> Docs - Languages -> TypeScript -> tsconfig.json (conforme segue a imagem abaixo):
 
-![alt tag](https://uploaddeimagens.com.br/imagens/pic_1-png--2)
+![alt tag](https://uploaddeimagens.com.br/images/000/921/644/original/pic_1.png?1495141187)
 
 ### 2º Passo:
 Depois basta copiar as informações inerentes ao arquivo: **tsconfig.json**
@@ -56,6 +46,3 @@ Studio Code integrado basta ir até o diretório do arquivo e digitar o seguinte
 ## Dúvidas?!
 
 Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente basta criar uma Issue aqui no GitHub que estarei respondendo a vocês!! :D :D 
-
-
-
